@@ -1,0 +1,9 @@
+.idea
+/.idea
+*.pyc
+*.log
+public/config.py
+img/*.jpg
+img/*.png
+code/*.jpg
+code/*.png
